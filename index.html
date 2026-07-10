@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lietuvos dugninės meškerės sportininkų reitingas 2020–2025</title>
+<meta name="description" content="Neoficialus Lietuvos dugninės meškerės sportininkų reitingas 2020–2025.">
+<style>
+:root{--green:#0d3b2e;--gold:#d5a94e;--ink:#17201d;--muted:#66716d;--bg:#f3f6f4;--card:#fff;--line:#dfe6e2}
+*{box-sizing:border-box}body{margin:0;font-family:Segoe UI,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.55}
+.wrap{max-width:1180px;margin:auto;padding:0 20px}header{background:linear-gradient(135deg,var(--green),#08271f);color:#fff;padding:64px 0 48px;border-bottom:5px solid var(--gold)}
+h1{font-size:clamp(2.2rem,5vw,4rem);line-height:1.05;margin:.4rem 0 1rem}.lead{font-size:1.15rem;max-width:850px;color:#e8f1ed}
+main{padding:28px 0 48px}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:22px}.stats article,.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:22px}
+.stats strong{display:block;font-size:1.7rem;color:var(--green)}.stats span{color:var(--muted)}.card{margin-bottom:22px;box-shadow:0 8px 22px rgba(20,45,35,.04)}
+.head{display:flex;justify-content:space-between;gap:16px;align-items:end;flex-wrap:wrap}input,select{padding:11px 12px;border:1px solid #cfd9d4;border-radius:9px;font:inherit}
+.table-wrap{overflow:auto;border:1px solid var(--line);border-radius:12px}table{width:100%;border-collapse:collapse;min-width:900px}th,td{padding:12px 10px;border-bottom:1px solid var(--line);text-align:right}
+th{background:#eef4f1;cursor:pointer}th:nth-child(2),td:nth-child(2),th:last-child,td:last-child{text-align:left}.rank,.score{font-weight:900;color:var(--green)}
+.badge{display:inline-block;padding:4px 9px;border-radius:999px;font-size:.78rem;font-weight:800}.good{background:#dff1e8;color:#17523e}.partial{background:#f3ead3;color:#7a5c12}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}.method div{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding:10px 0}
+footer{background:#10251e;color:#d8e2de;padding:22px 0}@media(max-width:850px){.stats{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}@media(max-width:520px){.stats{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div style="font-weight:800;letter-spacing:.15em;font-size:.8rem">LIETUVOS FEEDER SPORTO ARCHYVAS</div>
+<h1>Lietuvos dugninės meškerės sportininkų reitingas</h1>
+<p class="lead">2020–2025 m. neoficialus reitingas pagal individualius, komandinius, rinktinės ir tarptautinius pasiekimus.</p></div></header>
+<main class="wrap">
+<section class="stats">
+<article><strong>15</strong><span>sportininkų</span></article>
+<article><strong>2020–2025</strong><span>laikotarpis</span></article>
+<article><strong>5</strong><span>taškų kategorijos</span></article>
+<article><strong>267</strong><span>lyderio taškai</span></article>
+</section>
+
+<section class="card">
+<div class="head"><div><h2>Bendras reitingas</h2></div>
+<div><input id="search" type="search" placeholder="Ieškoti sportininko…"> <select id="filter"><option value="all">Visi</option><option value="Papildyta">Papildyti</option><option value="Tik LT individualūs">Tik LT individualūs</option></select></div></div>
+<div class="table-wrap"><table><thead><tr>
+<th data-key="rank">Vieta</th><th data-key="name">Sportininkas</th><th data-key="lt_ind">LT ind.</th><th data-key="lt_team">LT kom.</th><th data-key="national">Rinktinė</th><th data-key="intl_ind">PČ/EČ ind.</th><th data-key="intl_team">PČ/EČ kom.</th><th data-key="total">Iš viso</th><th>Būsena</th>
+</tr></thead><tbody id="tbody"></tbody></table></div>
+</section>
+
+<section class="grid">
+<article class="card method"><h2>Taškų sistema</h2>
+<div><b>LT individualiai</b><span>30 / 20 / 15</span></div>
+<div><b>LT komandiškai</b><span>10 / 7 / 5</span></div>
+<div><b>Rinktinės startas</b><span>10</span></div>
+<div><b>PČ/EČ individualiai</b><span>150 / 125 / 100</span></div>
+<div><b>PČ/EČ komandiškai</b><span>60 / 50 / 40</span></div>
+</article>
+<article class="card"><h2>Duomenų būsena</h2>
+<p><b>„Papildyta“</b> – įtraukti ir kiti pasiekimai, ne tik Lietuvos individualus čempionatas.</p>
+<p><b>„Tik LT individualūs“</b> – kitų kategorijų duomenys dar gali būti nepilni.</p>
+</article>
+</section>
+</main>
+<footer><div class="wrap">Neoficialus Lietuvos feeder reitingo projektas • 2020–2025</div></footer>
+
+<script>
+const data=[{"rank": 1, "name": "Arūnas Mazurkevičius", "lt_ind": 35, "lt_team": 27, "national": 30, "intl_ind": 125, "intl_team": 50, "total": 267, "status": "Papildyta"}, {"rank": 2, "name": "Artūras Lapinskas", "lt_ind": 0, "lt_team": 20, "national": 10, "intl_ind": 125, "intl_team": 0, "total": 155, "status": "Papildyta"}, {"rank": 3, "name": "Povilas Motiejūnas", "lt_ind": 50, "lt_team": 0, "national": 30, "intl_ind": 0, "intl_team": 50, "total": 130, "status": "Papildyta"}, {"rank": 4, "name": "Linas Baranauskas", "lt_ind": 35, "lt_team": 17, "national": 20, "intl_ind": 0, "intl_team": 50, "total": 122, "status": "Papildyta"}, {"rank": 5, "name": "Nerijus Kalasauskas", "lt_ind": 30, "lt_team": 0, "national": 10, "intl_ind": 0, "intl_team": 50, "total": 90, "status": "Papildyta"}, {"rank": 6, "name": "Ignas Briedaitis", "lt_ind": 0, "lt_team": 0, "national": 10, "intl_ind": 0, "intl_team": 50, "total": 60, "status": "Papildyta"}, {"rank": 6, "name": "Vadim Reznik", "lt_ind": 0, "lt_team": 0, "national": 10, "intl_ind": 0, "intl_team": 50, "total": 60, "status": "Papildyta"}, {"rank": 8, "name": "Ruslanas Rybakovas", "lt_ind": 20, "lt_team": 27, "national": 10, "intl_ind": 0, "intl_team": 0, "total": 57, "status": "Papildyta"}, {"rank": 9, "name": "Rolfas Bitinas", "lt_ind": 30, "lt_team": 7, "national": 0, "intl_ind": 0, "intl_team": 0, "total": 37, "status": "Papildyta"}, {"rank": 10, "name": "Tadas Ignatavičius", "lt_ind": 30, "lt_team": 0, "national": 0, "intl_ind": 0, "intl_team": 0, "total": 30, "status": "Tik LT individualūs"}, {"rank": 10, "name": "Roman Timokhin", "lt_ind": 30, "lt_team": 0, "national": 0, "intl_ind": 0, "intl_team": 0, "total": 30, "status": "Tik LT individualūs"}, {"rank": 12, "name": "Sergejus Usomanitovas", "lt_ind": 20, "lt_team": 0, "national": 0, "intl_ind": 0, "intl_team": 0, "total": 20, "status": "Tik LT individualūs"}, {"rank": 13, "name": "Mantas Bernota", "lt_ind": 15, "lt_team": 0, "national": 0, "intl_ind": 0, "intl_team": 0, "total": 15, "status": "Tik LT individualūs"}, {"rank": 13, "name": "Linas Paškevičius", "lt_ind": 15, "lt_team": 0, "national": 0, "intl_ind": 0, "intl_team": 0, "total": 15, "status": "Tik LT individualūs"}, {"rank": 13, "name": "Vidas Pastarnokas", "lt_ind": 15, "lt_team": 0, "national": 0, "intl_ind": 0, "intl_team": 0, "total": 15, "status": "Tik LT individualūs"}];
+let sortKey='total',sortDir='desc';
+const tbody=document.getElementById('tbody'), search=document.getElementById('search'), filter=document.getElementById('filter');
+function render(){
+ const q=search.value.toLowerCase().trim();
+ let rows=data.filter(x=>(!q||x.name.toLowerCase().includes(q))&&(filter.value==='all'||x.status===filter.value));
+ rows.sort((a,b)=>{let av=a[sortKey],bv=b[sortKey];if(typeof av==='string') return sortDir==='asc'?av.localeCompare(bv,'lt'):bv.localeCompare(av,'lt');return sortDir==='asc'?av-bv:bv-av;});
+ tbody.innerHTML=rows.map(x=>`<tr><td class="rank">${x.rank}</td><td>${x.name}</td><td>${x.lt_ind}</td><td>${x.lt_team}</td><td>${x.national}</td><td>${x.intl_ind}</td><td>${x.intl_team}</td><td class="score">${x.total}</td><td><span class="badge ${x.status==='Papildyta'?'good':'partial'}">${x.status}</span></td></tr>`).join('');
+}
+search.addEventListener('input',render);filter.addEventListener('change',render);
+document.querySelectorAll('th[data-key]').forEach(th=>th.addEventListener('click',()=>{const k=th.dataset.key;if(sortKey===k)sortDir=sortDir==='asc'?'desc':'asc';else{sortKey=k;sortDir=k==='name'?'asc':'desc';}render();}));
+render();
+</script>
+</body>
+</html>
