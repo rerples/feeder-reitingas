@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rerples.github.io/feeder-reitingas/sitemap.xml
