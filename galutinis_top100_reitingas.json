@@ -15355,7 +15355,7 @@
       "LT individualios 4 ir žemesnės vietos"
     ],
     "historical_team_note": "2013–2019 m. „Žvejo tribūnos“ nariams pagal oficialias sezono lenteles pridėta po 10 LT komandinių taškų už kiekvieną patvirtintą sezoną.",
-    "historical_national_note": "2013–2019 m. kiekvieno sezono galutinės individualios įskaitos TOP 6 sportininkams pridėta po 10 rinktinės taškų.",
+    "historical_national_note": "2013–2019 m. kiekvieno sezono galutinės individualios įskaitos TOP 6 sportininkams pridėta po 10 rinktinės taškų, išskyrus patikslintus nedalyvavimo atvejus.",
     "historical_team_awards": [
       {
         "year": 2013,
@@ -15739,14 +15739,6 @@
       },
       {
         "year": 2019,
-        "place": 1,
-        "name": "Nerijus Kalasauskas",
-        "points": 10,
-        "reason": "Galutinės individualios įskaitos TOP 6",
-        "needs_review": false
-      },
-      {
-        "year": 2019,
         "place": 2,
         "name": "Donatas Jovaiša",
         "points": 10,
@@ -15776,14 +15768,22 @@
         "points": 10,
         "reason": "Galutinės individualios įskaitos TOP 6",
         "needs_review": false
+      }
+    ],
+    "historical_national_exclusions": [
+      {
+        "year": 2019,
+        "place": 1,
+        "name": "Nerijus Kalasauskas",
+        "points_removed": 10,
+        "reason": "Patikslinta: rinktinėje antrą kartą nedalyvavo"
       },
       {
         "year": 2019,
         "place": 6,
         "name": "Artūras Lapinskas",
-        "points": 10,
-        "reason": "Galutinės individualios įskaitos TOP 6",
-        "needs_review": false
+        "points_removed": 10,
+        "reason": "Patikslinta: rinktinėje antrą kartą nedalyvavo"
       }
     ],
     "ranking": [
@@ -15983,10 +15983,10 @@
         "name": "Artūras Lapinskas",
         "lt_ind": 0,
         "lt_team": 27,
-        "national": 20,
+        "national": 10,
         "intl_ind": 125,
         "intl_team": 0,
-        "total": 172,
+        "total": 162,
         "seasons": [
           2018,
           2019,
@@ -16034,16 +16034,7 @@
           }
         ],
         "historical_team_breakdown": [],
-        "historical_national_breakdown": [
-          {
-            "year": 2019,
-            "place": 6,
-            "name": "Artūras Lapinskas",
-            "points": 10,
-            "reason": "Galutinės individualios įskaitos TOP 6",
-            "needs_review": false
-          }
-        ],
+        "historical_national_breakdown": [],
         "historical_team_needs_review": true,
         "needs_review": true,
         "rank": 3
@@ -16291,75 +16282,6 @@
         "rank": 6
       },
       {
-        "name": "Nerijus Kalasauskas",
-        "lt_ind": 60,
-        "lt_team": 5,
-        "national": 20,
-        "intl_ind": 0,
-        "intl_team": 50,
-        "total": 135,
-        "seasons": [
-          2018,
-          2019,
-          2021,
-          2022,
-          2023,
-          2024,
-          2025
-        ],
-        "individual_breakdown": [
-          {
-            "year": 2018,
-            "place": 23,
-            "points": 0
-          },
-          {
-            "year": 2019,
-            "place": 1,
-            "points": 30
-          },
-          {
-            "year": 2021,
-            "place": 7,
-            "points": 0
-          },
-          {
-            "year": 2022,
-            "place": 9,
-            "points": 0
-          },
-          {
-            "year": 2023,
-            "place": 1,
-            "points": 30
-          },
-          {
-            "year": 2024,
-            "place": 22,
-            "points": 0
-          },
-          {
-            "year": 2025,
-            "place": 37,
-            "points": 0
-          }
-        ],
-        "historical_team_breakdown": [],
-        "historical_national_breakdown": [
-          {
-            "year": 2019,
-            "place": 1,
-            "name": "Nerijus Kalasauskas",
-            "points": 10,
-            "reason": "Galutinės individualios įskaitos TOP 6",
-            "needs_review": false
-          }
-        ],
-        "historical_team_needs_review": true,
-        "needs_review": true,
-        "rank": 7
-      },
-      {
         "name": "Donatas Jovaiša",
         "lt_ind": 35,
         "lt_team": 60,
@@ -16494,6 +16416,66 @@
         "historical_team_needs_review": false,
         "needs_review": false,
         "rank": 7
+      },
+      {
+        "name": "Nerijus Kalasauskas",
+        "lt_ind": 60,
+        "lt_team": 5,
+        "national": 10,
+        "intl_ind": 0,
+        "intl_team": 50,
+        "total": 125,
+        "seasons": [
+          2018,
+          2019,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "individual_breakdown": [
+          {
+            "year": 2018,
+            "place": 23,
+            "points": 0
+          },
+          {
+            "year": 2019,
+            "place": 1,
+            "points": 30
+          },
+          {
+            "year": 2021,
+            "place": 7,
+            "points": 0
+          },
+          {
+            "year": 2022,
+            "place": 9,
+            "points": 0
+          },
+          {
+            "year": 2023,
+            "place": 1,
+            "points": 30
+          },
+          {
+            "year": 2024,
+            "place": 22,
+            "points": 0
+          },
+          {
+            "year": 2025,
+            "place": 37,
+            "points": 0
+          }
+        ],
+        "historical_team_breakdown": [],
+        "historical_national_breakdown": [],
+        "historical_team_needs_review": true,
+        "needs_review": true,
+        "rank": 8
       },
       {
         "name": "Renaldas Masionis",
