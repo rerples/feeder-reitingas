@@ -6580,11 +6580,138 @@
   "all_time": {
     "title": "LDMA visų laikų reitingas",
     "period": "2013–2025",
-    "methodology": "4 geriausių sezonų vietų suma; 3 rezultatams +300, 2 rezultatams +500, 1 rezultatui +700",
+    "methodology": "4 geriausių sezonų vietų suma; už kiekvieną trūkstamą rezultatą pridedama po 100",
     "source": "https://ldma.lt/2013-2023m-reitingas",
     "participants": 326,
     "top100_count": 100,
-    "needs_review_in_top100": [],
+    "needs_review_in_top100": [
+      {
+        "rank": 9,
+        "name": "Ruslanas Rybakovas",
+        "official": 320,
+        "computed": 120,
+        "score": 22
+      },
+      {
+        "rank": 16,
+        "name": "Modestas Atmanavičius",
+        "official": 314,
+        "computed": 114,
+        "score": 34
+      },
+      {
+        "rank": 19,
+        "name": "Linas Baranauskas",
+        "official": 308,
+        "computed": 108,
+        "score": 44
+      },
+      {
+        "rank": 37,
+        "name": "Sergejus Solomatnikovas",
+        "official": 348,
+        "computed": 148,
+        "score": 76
+      },
+      {
+        "rank": 47,
+        "name": "Vilius Mickevičius",
+        "official": 518,
+        "computed": 218,
+        "score": 105
+      },
+      {
+        "rank": 57,
+        "name": "Tadas Turauskas",
+        "official": 371,
+        "computed": 171,
+        "score": 140
+      },
+      {
+        "rank": 59,
+        "name": "Linas Paškevičius",
+        "official": 362,
+        "computed": 162,
+        "score": 143
+      },
+      {
+        "rank": 72,
+        "name": "Paulius Grigaitis",
+        "official": 438,
+        "computed": 238,
+        "score": 171
+      },
+      {
+        "rank": 75,
+        "name": "Vidas Pastarnokas",
+        "official": 765,
+        "computed": 365,
+        "score": 175
+      },
+      {
+        "rank": 78,
+        "name": "Laurynas Stripeika",
+        "official": 734,
+        "computed": 334,
+        "score": 181
+      },
+      {
+        "rank": 79,
+        "name": "Aivaras Babachinas",
+        "official": 730,
+        "computed": 330,
+        "score": 183
+      },
+      {
+        "rank": 79,
+        "name": "Laurynas Gegužis",
+        "official": 751,
+        "computed": 351,
+        "score": 183
+      },
+      {
+        "rank": 83,
+        "name": "Tomas Valionis",
+        "official": 746,
+        "computed": 346,
+        "score": 186
+      },
+      {
+        "rank": 84,
+        "name": "Tomas Kropa",
+        "official": 735,
+        "computed": 335,
+        "score": 189
+      },
+      {
+        "rank": 86,
+        "name": "Martynas Piunovas",
+        "official": 763,
+        "computed": 363,
+        "score": 196
+      },
+      {
+        "rank": 91,
+        "name": "Edvinas Jaškūnas",
+        "official": 721,
+        "computed": 321,
+        "score": 202
+      },
+      {
+        "rank": 91,
+        "name": "Romualdas Osipovičius",
+        "official": 568,
+        "computed": 268,
+        "score": 202
+      },
+      {
+        "rank": 95,
+        "name": "Ignas Briedaitis",
+        "official": 518,
+        "computed": 218,
+        "score": 208
+      }
+    ],
     "ranking": [
       {
         "name": "Mantas Juknevičius",
@@ -6786,7 +6913,7 @@
         "historical_sources": [],
         "official_rank_2013_2023": null,
         "official_score_2013_2023": null,
-        "computed_score_2013_2023": 509,
+        "computed_score_2013_2023": 209,
         "historical_adjusted_to_official": false,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 0,
@@ -7284,11 +7411,11 @@
         ],
         "official_rank_2013_2023": 59,
         "official_score_2013_2023": 320,
-        "computed_score_2013_2023": 320,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 120,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2020,
@@ -7858,11 +7985,11 @@
         ],
         "official_rank_2013_2023": 58,
         "official_score_2013_2023": 314,
-        "computed_score_2013_2023": 314,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 114,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2017,
@@ -8204,11 +8331,11 @@
         ],
         "official_rank_2013_2023": 57,
         "official_score_2013_2023": 308,
-        "computed_score_2013_2023": 308,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 108,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2019,
@@ -9634,11 +9761,11 @@
         ],
         "official_rank_2013_2023": 63,
         "official_score_2013_2023": 348,
-        "computed_score_2013_2023": 348,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 148,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2021,
@@ -10439,11 +10566,11 @@
         ],
         "official_rank_2013_2023": 93,
         "official_score_2013_2023": 518,
-        "computed_score_2013_2023": 518,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 218,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2021,
@@ -11228,11 +11355,11 @@
         ],
         "official_rank_2013_2023": 68,
         "official_score_2013_2023": 371,
-        "computed_score_2013_2023": 371,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 171,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2017,
@@ -11275,6 +11402,70 @@
         ],
         "all_time_score": 140,
         "rank": 57
+      },
+      {
+        "name": "Tadas Radžiūnas",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": 22,
+          "2024": 11,
+          "2025": 9
+        },
+        "historical_sources": [],
+        "official_rank_2013_2023": null,
+        "official_score_2013_2023": null,
+        "computed_score_2013_2023": 322,
+        "historical_adjusted_to_official": false,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 0,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2023,
+            "place": 22
+          },
+          {
+            "year": 2024,
+            "place": 11
+          },
+          {
+            "year": 2025,
+            "place": 9
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2025,
+            "place": 9
+          },
+          {
+            "year": 2024,
+            "place": 11
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 22
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 142,
+        "rank": 58
       },
       {
         "name": "Tadas Germanavičius",
@@ -11355,7 +11546,7 @@
           }
         ],
         "all_time_score": 143,
-        "rank": 58
+        "rank": 59
       },
       {
         "name": "Linas Paškevičius",
@@ -11382,11 +11573,11 @@
         ],
         "official_rank_2013_2023": 66,
         "official_score_2013_2023": 362,
-        "computed_score_2013_2023": 362,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 162,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2020,
@@ -11428,7 +11619,7 @@
           }
         ],
         "all_time_score": 143,
-        "rank": 58
+        "rank": 59
       },
       {
         "name": "Jevgenij Grabinskij",
@@ -11450,7 +11641,7 @@
         "historical_sources": [],
         "official_rank_2013_2023": null,
         "official_score_2013_2023": null,
-        "computed_score_2013_2023": 429,
+        "computed_score_2013_2023": 229,
         "historical_adjusted_to_official": false,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 0,
@@ -11496,7 +11687,78 @@
           }
         ],
         "all_time_score": 144,
-        "rank": 60
+        "rank": 61
+      },
+      {
+        "name": "Darius Baršys",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": 12,
+          "2016": 24,
+          "2017": 8,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 61,
+            "score": 344
+          }
+        ],
+        "official_rank_2013_2023": 61,
+        "official_score_2013_2023": 344,
+        "computed_score_2013_2023": 144,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2015,
+            "place": 12
+          },
+          {
+            "year": 2016,
+            "place": 24
+          },
+          {
+            "year": 2017,
+            "place": 8
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 8
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 12
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 24
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 144,
+        "rank": 61
       },
       {
         "name": "Darius Urbanavičius",
@@ -11578,7 +11840,78 @@
           }
         ],
         "all_time_score": 146,
-        "rank": 61
+        "rank": 63
+      },
+      {
+        "name": "Martynas Bendoraitis",
+        "years": {
+          "2013": 10,
+          "2014": 23,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": 15,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 62,
+            "score": 348
+          }
+        ],
+        "official_rank_2013_2023": 62,
+        "official_score_2013_2023": 348,
+        "computed_score_2013_2023": 148,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2013,
+            "place": 10
+          },
+          {
+            "year": 2014,
+            "place": 23
+          },
+          {
+            "year": 2019,
+            "place": 15
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 10
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 15
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 23
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 148,
+        "rank": 64
       },
       {
         "name": "Algirdas Tubinis",
@@ -11660,7 +11993,78 @@
           }
         ],
         "all_time_score": 149,
-        "rank": 62
+        "rank": 65
+      },
+      {
+        "name": "Mantas Žilius",
+        "years": {
+          "2013": null,
+          "2014": 20,
+          "2015": 9,
+          "2016": 22,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 64,
+            "score": 351
+          }
+        ],
+        "official_rank_2013_2023": 64,
+        "official_score_2013_2023": 351,
+        "computed_score_2013_2023": 151,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2014,
+            "place": 20
+          },
+          {
+            "year": 2015,
+            "place": 9
+          },
+          {
+            "year": 2016,
+            "place": 22
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 9
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 20
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 22
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 151,
+        "rank": 66
       },
       {
         "name": "Simonas Andriušis",
@@ -11734,7 +12138,7 @@
           }
         ],
         "all_time_score": 154,
-        "rank": 63
+        "rank": 67
       },
       {
         "name": "Tomas Tarasevičius",
@@ -11808,7 +12212,7 @@
           }
         ],
         "all_time_score": 157,
-        "rank": 64
+        "rank": 68
       },
       {
         "name": "Vitalijus Barštys",
@@ -11889,7 +12293,7 @@
           }
         ],
         "all_time_score": 160,
-        "rank": 65
+        "rank": 69
       },
       {
         "name": "Virginijus Baikauskas",
@@ -11967,7 +12371,78 @@
           }
         ],
         "all_time_score": 160,
-        "rank": 65
+        "rank": 69
+      },
+      {
+        "name": "Vitalijus Ivanovas",
+        "years": {
+          "2013": null,
+          "2014": 15,
+          "2015": 15,
+          "2016": 34,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 67,
+            "score": 364
+          }
+        ],
+        "official_rank_2013_2023": 67,
+        "official_score_2013_2023": 364,
+        "computed_score_2013_2023": 164,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2014,
+            "place": 15
+          },
+          {
+            "year": 2015,
+            "place": 15
+          },
+          {
+            "year": 2016,
+            "place": 34
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 15
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 15
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 34
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 164,
+        "rank": 71
       },
       {
         "name": "Paulius Grigaitis",
@@ -11994,11 +12469,11 @@
         ],
         "official_rank_2013_2023": 86,
         "official_score_2013_2023": 438,
-        "computed_score_2013_2023": 438,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 238,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2021,
@@ -12044,7 +12519,152 @@
           }
         ],
         "all_time_score": 171,
-        "rank": 67
+        "rank": 72
+      },
+      {
+        "name": "Gintarė Makauskaitė",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": 50,
+          "2021": null,
+          "2022": 22,
+          "2023": 11,
+          "2024": 38,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 98,
+            "score": 533
+          }
+        ],
+        "official_rank_2013_2023": 98,
+        "official_score_2013_2023": 533,
+        "computed_score_2013_2023": 183,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": true,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2020,
+            "place": 50
+          },
+          {
+            "year": 2022,
+            "place": 22
+          },
+          {
+            "year": 2023,
+            "place": 11
+          },
+          {
+            "year": 2024,
+            "place": 38
+          }
+        ],
+        "seasons": 4,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 11
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 22
+          },
+          {
+            "year": 2024,
+            "place": 38
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 171,
+        "rank": 72
+      },
+      {
+        "name": "Valentinas Štulas",
+        "years": {
+          "2013": 27,
+          "2014": 24,
+          "2015": 22,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 69,
+            "score": 373
+          }
+        ],
+        "official_rank_2013_2023": 69,
+        "official_score_2013_2023": 373,
+        "computed_score_2013_2023": 173,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2013,
+            "place": 27
+          },
+          {
+            "year": 2014,
+            "place": 24
+          },
+          {
+            "year": 2015,
+            "place": 22
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 22
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 24
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 27
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 173,
+        "rank": 74
       },
       {
         "name": "Audrius Zdanevičius",
@@ -12118,7 +12738,916 @@
           }
         ],
         "all_time_score": 175,
-        "rank": 68
+        "rank": 75
+      },
+      {
+        "name": "Vidas Pastarnokas",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": 65,
+          "2024": 7,
+          "2025": 3
+        },
+        "historical_sources": [
+          {
+            "rank": 228,
+            "score": 765
+          }
+        ],
+        "official_rank_2013_2023": 228,
+        "official_score_2013_2023": 765,
+        "computed_score_2013_2023": 365,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": true,
+        "placements": [
+          {
+            "year": 2023,
+            "place": 65
+          },
+          {
+            "year": 2024,
+            "place": 7
+          },
+          {
+            "year": 2025,
+            "place": 3
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2025,
+            "place": 3
+          },
+          {
+            "year": 2024,
+            "place": 7
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 65
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 175,
+        "rank": 75
+      },
+      {
+        "name": "Rimantas Praninskas",
+        "years": {
+          "2013": 31,
+          "2014": 42,
+          "2015": 7,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 70,
+            "score": 380
+          }
+        ],
+        "official_rank_2013_2023": 70,
+        "official_score_2013_2023": 380,
+        "computed_score_2013_2023": 180,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2013,
+            "place": 31
+          },
+          {
+            "year": 2014,
+            "place": 42
+          },
+          {
+            "year": 2015,
+            "place": 7
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 7
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 31
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 42
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 180,
+        "rank": 77
+      },
+      {
+        "name": "Laurynas Stripeika",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": 34,
+          "2024": 4,
+          "2025": 43
+        },
+        "historical_sources": [
+          {
+            "rank": 166,
+            "score": 734
+          }
+        ],
+        "official_rank_2013_2023": 166,
+        "official_score_2013_2023": 734,
+        "computed_score_2013_2023": 334,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": true,
+        "placements": [
+          {
+            "year": 2023,
+            "place": 34
+          },
+          {
+            "year": 2024,
+            "place": 4
+          },
+          {
+            "year": 2025,
+            "place": 43
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2024,
+            "place": 4
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 34
+          },
+          {
+            "year": 2025,
+            "place": 43
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 181,
+        "rank": 78
+      },
+      {
+        "name": "Aivaras Babachinas",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": 30,
+          "2023": null,
+          "2024": 21,
+          "2025": 32
+        },
+        "historical_sources": [
+          {
+            "rank": 160,
+            "score": 730
+          }
+        ],
+        "official_rank_2013_2023": 160,
+        "official_score_2013_2023": 730,
+        "computed_score_2013_2023": 330,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": true,
+        "placements": [
+          {
+            "year": 2022,
+            "place": 30
+          },
+          {
+            "year": 2024,
+            "place": 21
+          },
+          {
+            "year": 2025,
+            "place": 32
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2024,
+            "place": 21
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 30
+          },
+          {
+            "year": 2025,
+            "place": 32
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 183,
+        "rank": 79
+      },
+      {
+        "name": "Laurynas Gegužis",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": 51,
+          "2024": 14,
+          "2025": 18
+        },
+        "historical_sources": [
+          {
+            "rank": 212,
+            "score": 751
+          }
+        ],
+        "official_rank_2013_2023": 212,
+        "official_score_2013_2023": 751,
+        "computed_score_2013_2023": 351,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": true,
+        "placements": [
+          {
+            "year": 2023,
+            "place": 51
+          },
+          {
+            "year": 2024,
+            "place": 14
+          },
+          {
+            "year": 2025,
+            "place": 18
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2024,
+            "place": 14
+          },
+          {
+            "year": 2025,
+            "place": 18
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 51
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 183,
+        "rank": 79
+      },
+      {
+        "name": "Rimantas Šneideraitis",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": 11,
+          "2016": 17,
+          "2017": 57,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 71,
+            "score": 385
+          }
+        ],
+        "official_rank_2013_2023": 71,
+        "official_score_2013_2023": 385,
+        "computed_score_2013_2023": 185,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2015,
+            "place": 11
+          },
+          {
+            "year": 2016,
+            "place": 17
+          },
+          {
+            "year": 2017,
+            "place": 57
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 11
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 17
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 57
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 185,
+        "rank": 81
+      },
+      {
+        "name": "Vilius Bagdišanka",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": 8,
+          "2021": 44,
+          "2022": 33,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 72,
+            "score": 385
+          }
+        ],
+        "official_rank_2013_2023": 72,
+        "official_score_2013_2023": 385,
+        "computed_score_2013_2023": 185,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2020,
+            "place": 8
+          },
+          {
+            "year": 2021,
+            "place": 44
+          },
+          {
+            "year": 2022,
+            "place": 33
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 8
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 33
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 44
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 185,
+        "rank": 81
+      },
+      {
+        "name": "Tomas Valionis",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": 46,
+          "2024": 12,
+          "2025": 28
+        },
+        "historical_sources": [
+          {
+            "rank": 200,
+            "score": 746
+          }
+        ],
+        "official_rank_2013_2023": 200,
+        "official_score_2013_2023": 746,
+        "computed_score_2013_2023": 346,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": true,
+        "placements": [
+          {
+            "year": 2023,
+            "place": 46
+          },
+          {
+            "year": 2024,
+            "place": 12
+          },
+          {
+            "year": 2025,
+            "place": 28
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2024,
+            "place": 12
+          },
+          {
+            "year": 2025,
+            "place": 28
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 46
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 186,
+        "rank": 83
+      },
+      {
+        "name": "Tomas Kropa",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": 35,
+          "2024": 40,
+          "2025": 14
+        },
+        "historical_sources": [
+          {
+            "rank": 168,
+            "score": 735
+          }
+        ],
+        "official_rank_2013_2023": 168,
+        "official_score_2013_2023": 735,
+        "computed_score_2013_2023": 335,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": true,
+        "placements": [
+          {
+            "year": 2023,
+            "place": 35
+          },
+          {
+            "year": 2024,
+            "place": 40
+          },
+          {
+            "year": 2025,
+            "place": 14
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2025,
+            "place": 14
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 35
+          },
+          {
+            "year": 2024,
+            "place": 40
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 189,
+        "rank": 84
+      },
+      {
+        "name": "Arūnas Armanavičius",
+        "years": {
+          "2013": 37,
+          "2014": 44,
+          "2015": 14,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 74,
+            "score": 395
+          }
+        ],
+        "official_rank_2013_2023": 74,
+        "official_score_2013_2023": 395,
+        "computed_score_2013_2023": 195,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2013,
+            "place": 37
+          },
+          {
+            "year": 2014,
+            "place": 44
+          },
+          {
+            "year": 2015,
+            "place": 14
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 14
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 37
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 44
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 195,
+        "rank": 85
+      },
+      {
+        "name": "Julius Petrulis",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": 23,
+          "2016": 35,
+          "2017": 38,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 75,
+            "score": 396
+          }
+        ],
+        "official_rank_2013_2023": 75,
+        "official_score_2013_2023": 396,
+        "computed_score_2013_2023": 196,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2015,
+            "place": 23
+          },
+          {
+            "year": 2016,
+            "place": 35
+          },
+          {
+            "year": 2017,
+            "place": 38
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 23
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 35
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 38
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 196,
+        "rank": 86
+      },
+      {
+        "name": "Martynas Piunovas",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": 63,
+          "2024": 13,
+          "2025": 20
+        },
+        "historical_sources": [
+          {
+            "rank": 224,
+            "score": 763
+          }
+        ],
+        "official_rank_2013_2023": 224,
+        "official_score_2013_2023": 763,
+        "computed_score_2013_2023": 363,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": true,
+        "placements": [
+          {
+            "year": 2023,
+            "place": 63
+          },
+          {
+            "year": 2024,
+            "place": 13
+          },
+          {
+            "year": 2025,
+            "place": 20
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": 2024,
+            "place": 13
+          },
+          {
+            "year": 2025,
+            "place": 20
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 63
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 196,
+        "rank": 86
+      },
+      {
+        "name": "Kęstas Jaučkojis",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": 31,
+          "2020": 12,
+          "2021": 55,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 76,
+            "score": 398
+          }
+        ],
+        "official_rank_2013_2023": 76,
+        "official_score_2013_2023": 398,
+        "computed_score_2013_2023": 198,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2019,
+            "place": 31
+          },
+          {
+            "year": 2020,
+            "place": 12
+          },
+          {
+            "year": 2021,
+            "place": 55
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 12
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 31
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 55
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 198,
+        "rank": 88
       },
       {
         "name": "Tomas Grevys",
@@ -12192,1573 +13721,7 @@
           }
         ],
         "all_time_score": 201,
-        "rank": 69
-      },
-      {
-        "name": "Edmundas Brazdys",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": 68,
-          "2023": 62,
-          "2024": 49,
-          "2025": 48
-        },
-        "historical_sources": [],
-        "official_rank_2013_2023": null,
-        "official_score_2013_2023": null,
-        "computed_score_2013_2023": 630,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 0,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2022,
-            "place": 68
-          },
-          {
-            "year": 2023,
-            "place": 62
-          },
-          {
-            "year": 2024,
-            "place": 49
-          },
-          {
-            "year": 2025,
-            "place": 48
-          }
-        ],
-        "seasons": 4,
-        "four_best": [
-          {
-            "year": 2025,
-            "place": 48
-          },
-          {
-            "year": 2024,
-            "place": 49
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 62
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 68
-          }
-        ],
-        "all_time_score": 227,
-        "rank": 70
-      },
-      {
-        "name": "Šarūnas Žemaitaitis",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": 53,
-          "2021": null,
-          "2022": 40,
-          "2023": 61,
-          "2024": null,
-          "2025": 75
-        },
-        "historical_sources": [],
-        "official_rank_2013_2023": null,
-        "official_score_2013_2023": null,
-        "computed_score_2013_2023": 454,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 0,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2020,
-            "place": 53
-          },
-          {
-            "year": 2022,
-            "place": 40
-          },
-          {
-            "year": 2023,
-            "place": 61
-          },
-          {
-            "year": 2025,
-            "place": 75
-          }
-        ],
-        "seasons": 4,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 40
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 53
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 61
-          },
-          {
-            "year": 2025,
-            "place": 75
-          }
-        ],
-        "all_time_score": 229,
-        "rank": 71
-      },
-      {
-        "name": "Alfonsas Strelkauskas",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": 58,
-          "2021": 58,
-          "2022": 54,
-          "2023": 50,
-          "2024": null,
-          "2025": 77
-        },
-        "historical_sources": [
-          {
-            "rank": 88,
-            "score": 462
-          }
-        ],
-        "official_rank_2013_2023": 88,
-        "official_score_2013_2023": 462,
-        "computed_score_2013_2023": 220,
-        "historical_adjusted_to_official": true,
-        "historical_verified_manually": true,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2020,
-            "place": 58
-          },
-          {
-            "year": 2021,
-            "place": 58
-          },
-          {
-            "year": 2022,
-            "place": 54
-          },
-          {
-            "year": 2023,
-            "place": 50
-          },
-          {
-            "year": 2025,
-            "place": 77
-          }
-        ],
-        "seasons": 5,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 50
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 54
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 58
-          },
-          {
-            "year": 2025,
-            "place": 77
-          }
-        ],
-        "all_time_score": 239,
-        "rank": 72
-      },
-      {
-        "name": "Egidijus Žvikas",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": 32,
-          "2021": 35,
-          "2022": null,
-          "2023": null,
-          "2024": 85,
-          "2025": 92
-        },
-        "historical_sources": [
-          {
-            "rank": 111,
-            "score": 567
-          }
-        ],
-        "official_rank_2013_2023": 111,
-        "official_score_2013_2023": 567,
-        "computed_score_2013_2023": 567,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2020,
-            "place": 32
-          },
-          {
-            "year": 2021,
-            "place": 35
-          },
-          {
-            "year": 2024,
-            "place": 85
-          },
-          {
-            "year": 2025,
-            "place": 92
-          }
-        ],
-        "seasons": 4,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 32
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 35
-          },
-          {
-            "year": 2024,
-            "place": 85
-          },
-          {
-            "year": 2025,
-            "place": 92
-          }
-        ],
-        "all_time_score": 244,
-        "rank": 73
-      },
-      {
-        "name": "Tadas Radžiūnas",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": 22,
-          "2024": 11,
-          "2025": 9
-        },
-        "historical_sources": [],
-        "official_rank_2013_2023": null,
-        "official_score_2013_2023": null,
-        "computed_score_2013_2023": 722,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 0,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2023,
-            "place": 22
-          },
-          {
-            "year": 2024,
-            "place": 11
-          },
-          {
-            "year": 2025,
-            "place": 9
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2025,
-            "place": 9
-          },
-          {
-            "year": 2024,
-            "place": 11
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 22
-          }
-        ],
-        "all_time_score": 342,
-        "rank": 74
-      },
-      {
-        "name": "Darius Baršys",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": 12,
-          "2016": 24,
-          "2017": 8,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 61,
-            "score": 344
-          }
-        ],
-        "official_rank_2013_2023": 61,
-        "official_score_2013_2023": 344,
-        "computed_score_2013_2023": 344,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2015,
-            "place": 12
-          },
-          {
-            "year": 2016,
-            "place": 24
-          },
-          {
-            "year": 2017,
-            "place": 8
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 8
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 12
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 24
-          }
-        ],
-        "all_time_score": 344,
-        "rank": 75
-      },
-      {
-        "name": "Martynas Bendoraitis",
-        "years": {
-          "2013": 10,
-          "2014": 23,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": 15,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 62,
-            "score": 348
-          }
-        ],
-        "official_rank_2013_2023": 62,
-        "official_score_2013_2023": 348,
-        "computed_score_2013_2023": 348,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2013,
-            "place": 10
-          },
-          {
-            "year": 2014,
-            "place": 23
-          },
-          {
-            "year": 2019,
-            "place": 15
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 10
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 15
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 23
-          }
-        ],
-        "all_time_score": 348,
-        "rank": 76
-      },
-      {
-        "name": "Mantas Žilius",
-        "years": {
-          "2013": null,
-          "2014": 20,
-          "2015": 9,
-          "2016": 22,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 64,
-            "score": 351
-          }
-        ],
-        "official_rank_2013_2023": 64,
-        "official_score_2013_2023": 351,
-        "computed_score_2013_2023": 351,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2014,
-            "place": 20
-          },
-          {
-            "year": 2015,
-            "place": 9
-          },
-          {
-            "year": 2016,
-            "place": 22
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 9
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 20
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 22
-          }
-        ],
-        "all_time_score": 351,
-        "rank": 77
-      },
-      {
-        "name": "Vitalijus Ivanovas",
-        "years": {
-          "2013": null,
-          "2014": 15,
-          "2015": 15,
-          "2016": 34,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 67,
-            "score": 364
-          }
-        ],
-        "official_rank_2013_2023": 67,
-        "official_score_2013_2023": 364,
-        "computed_score_2013_2023": 364,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2014,
-            "place": 15
-          },
-          {
-            "year": 2015,
-            "place": 15
-          },
-          {
-            "year": 2016,
-            "place": 34
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 15
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 15
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 34
-          }
-        ],
-        "all_time_score": 364,
-        "rank": 78
-      },
-      {
-        "name": "Gintarė Makauskaitė",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": 50,
-          "2021": null,
-          "2022": 22,
-          "2023": 11,
-          "2024": 38,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 98,
-            "score": 533
-          }
-        ],
-        "official_rank_2013_2023": 98,
-        "official_score_2013_2023": 533,
-        "computed_score_2013_2023": 383,
-        "historical_adjusted_to_official": true,
-        "historical_verified_manually": true,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2020,
-            "place": 50
-          },
-          {
-            "year": 2022,
-            "place": 22
-          },
-          {
-            "year": 2023,
-            "place": 11
-          },
-          {
-            "year": 2024,
-            "place": 38
-          }
-        ],
-        "seasons": 4,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 11
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 22
-          },
-          {
-            "year": 2024,
-            "place": 38
-          }
-        ],
-        "all_time_score": 371,
-        "rank": 79
-      },
-      {
-        "name": "Valentinas Štulas",
-        "years": {
-          "2013": 27,
-          "2014": 24,
-          "2015": 22,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 69,
-            "score": 373
-          }
-        ],
-        "official_rank_2013_2023": 69,
-        "official_score_2013_2023": 373,
-        "computed_score_2013_2023": 373,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2013,
-            "place": 27
-          },
-          {
-            "year": 2014,
-            "place": 24
-          },
-          {
-            "year": 2015,
-            "place": 22
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 22
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 24
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 27
-          }
-        ],
-        "all_time_score": 373,
-        "rank": 80
-      },
-      {
-        "name": "Vidas Pastarnokas",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": 65,
-          "2024": 7,
-          "2025": 3
-        },
-        "historical_sources": [
-          {
-            "rank": 228,
-            "score": 765
-          }
-        ],
-        "official_rank_2013_2023": 228,
-        "official_score_2013_2023": 765,
-        "computed_score_2013_2023": 765,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2023,
-            "place": 65
-          },
-          {
-            "year": 2024,
-            "place": 7
-          },
-          {
-            "year": 2025,
-            "place": 3
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2025,
-            "place": 3
-          },
-          {
-            "year": 2024,
-            "place": 7
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 65
-          }
-        ],
-        "all_time_score": 375,
-        "rank": 81
-      },
-      {
-        "name": "Rimantas Praninskas",
-        "years": {
-          "2013": 31,
-          "2014": 42,
-          "2015": 7,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 70,
-            "score": 380
-          }
-        ],
-        "official_rank_2013_2023": 70,
-        "official_score_2013_2023": 380,
-        "computed_score_2013_2023": 380,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2013,
-            "place": 31
-          },
-          {
-            "year": 2014,
-            "place": 42
-          },
-          {
-            "year": 2015,
-            "place": 7
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 7
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 31
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 42
-          }
-        ],
-        "all_time_score": 380,
-        "rank": 82
-      },
-      {
-        "name": "Laurynas Stripeika",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": 34,
-          "2024": 4,
-          "2025": 43
-        },
-        "historical_sources": [
-          {
-            "rank": 166,
-            "score": 734
-          }
-        ],
-        "official_rank_2013_2023": 166,
-        "official_score_2013_2023": 734,
-        "computed_score_2013_2023": 734,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2023,
-            "place": 34
-          },
-          {
-            "year": 2024,
-            "place": 4
-          },
-          {
-            "year": 2025,
-            "place": 43
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2024,
-            "place": 4
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 34
-          },
-          {
-            "year": 2025,
-            "place": 43
-          }
-        ],
-        "all_time_score": 381,
-        "rank": 83
-      },
-      {
-        "name": "Aivaras Babachinas",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": 30,
-          "2023": null,
-          "2024": 21,
-          "2025": 32
-        },
-        "historical_sources": [
-          {
-            "rank": 160,
-            "score": 730
-          }
-        ],
-        "official_rank_2013_2023": 160,
-        "official_score_2013_2023": 730,
-        "computed_score_2013_2023": 730,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2022,
-            "place": 30
-          },
-          {
-            "year": 2024,
-            "place": 21
-          },
-          {
-            "year": 2025,
-            "place": 32
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2024,
-            "place": 21
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 30
-          },
-          {
-            "year": 2025,
-            "place": 32
-          }
-        ],
-        "all_time_score": 383,
-        "rank": 84
-      },
-      {
-        "name": "Laurynas Gegužis",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": 51,
-          "2024": 14,
-          "2025": 18
-        },
-        "historical_sources": [
-          {
-            "rank": 212,
-            "score": 751
-          }
-        ],
-        "official_rank_2013_2023": 212,
-        "official_score_2013_2023": 751,
-        "computed_score_2013_2023": 751,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2023,
-            "place": 51
-          },
-          {
-            "year": 2024,
-            "place": 14
-          },
-          {
-            "year": 2025,
-            "place": 18
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2024,
-            "place": 14
-          },
-          {
-            "year": 2025,
-            "place": 18
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 51
-          }
-        ],
-        "all_time_score": 383,
-        "rank": 84
-      },
-      {
-        "name": "Rimantas Šneideraitis",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": 11,
-          "2016": 17,
-          "2017": 57,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 71,
-            "score": 385
-          }
-        ],
-        "official_rank_2013_2023": 71,
-        "official_score_2013_2023": 385,
-        "computed_score_2013_2023": 385,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2015,
-            "place": 11
-          },
-          {
-            "year": 2016,
-            "place": 17
-          },
-          {
-            "year": 2017,
-            "place": 57
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 11
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 17
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 57
-          }
-        ],
-        "all_time_score": 385,
-        "rank": 86
-      },
-      {
-        "name": "Vilius Bagdišanka",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": 8,
-          "2021": 44,
-          "2022": 33,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 72,
-            "score": 385
-          }
-        ],
-        "official_rank_2013_2023": 72,
-        "official_score_2013_2023": 385,
-        "computed_score_2013_2023": 385,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2020,
-            "place": 8
-          },
-          {
-            "year": 2021,
-            "place": 44
-          },
-          {
-            "year": 2022,
-            "place": 33
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 8
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 33
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 44
-          }
-        ],
-        "all_time_score": 385,
-        "rank": 86
-      },
-      {
-        "name": "Tomas Valionis",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": 46,
-          "2024": 12,
-          "2025": 28
-        },
-        "historical_sources": [
-          {
-            "rank": 200,
-            "score": 746
-          }
-        ],
-        "official_rank_2013_2023": 200,
-        "official_score_2013_2023": 746,
-        "computed_score_2013_2023": 746,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2023,
-            "place": 46
-          },
-          {
-            "year": 2024,
-            "place": 12
-          },
-          {
-            "year": 2025,
-            "place": 28
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2024,
-            "place": 12
-          },
-          {
-            "year": 2025,
-            "place": 28
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 46
-          }
-        ],
-        "all_time_score": 386,
-        "rank": 88
-      },
-      {
-        "name": "Tomas Kropa",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": 35,
-          "2024": 40,
-          "2025": 14
-        },
-        "historical_sources": [
-          {
-            "rank": 168,
-            "score": 735
-          }
-        ],
-        "official_rank_2013_2023": 168,
-        "official_score_2013_2023": 735,
-        "computed_score_2013_2023": 735,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2023,
-            "place": 35
-          },
-          {
-            "year": 2024,
-            "place": 40
-          },
-          {
-            "year": 2025,
-            "place": 14
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2025,
-            "place": 14
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 35
-          },
-          {
-            "year": 2024,
-            "place": 40
-          }
-        ],
-        "all_time_score": 389,
         "rank": 89
-      },
-      {
-        "name": "Arūnas Armanavičius",
-        "years": {
-          "2013": 37,
-          "2014": 44,
-          "2015": 14,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 74,
-            "score": 395
-          }
-        ],
-        "official_rank_2013_2023": 74,
-        "official_score_2013_2023": 395,
-        "computed_score_2013_2023": 395,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2013,
-            "place": 37
-          },
-          {
-            "year": 2014,
-            "place": 44
-          },
-          {
-            "year": 2015,
-            "place": 14
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 14
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 37
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 44
-          }
-        ],
-        "all_time_score": 395,
-        "rank": 90
-      },
-      {
-        "name": "Julius Petrulis",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": 23,
-          "2016": 35,
-          "2017": 38,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 75,
-            "score": 396
-          }
-        ],
-        "official_rank_2013_2023": 75,
-        "official_score_2013_2023": 396,
-        "computed_score_2013_2023": 396,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2015,
-            "place": 23
-          },
-          {
-            "year": 2016,
-            "place": 35
-          },
-          {
-            "year": 2017,
-            "place": 38
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 23
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 35
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 38
-          }
-        ],
-        "all_time_score": 396,
-        "rank": 91
-      },
-      {
-        "name": "Martynas Piunovas",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": null,
-          "2020": null,
-          "2021": null,
-          "2022": null,
-          "2023": 63,
-          "2024": 13,
-          "2025": 20
-        },
-        "historical_sources": [
-          {
-            "rank": 224,
-            "score": 763
-          }
-        ],
-        "official_rank_2013_2023": 224,
-        "official_score_2013_2023": 763,
-        "computed_score_2013_2023": 763,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2023,
-            "place": 63
-          },
-          {
-            "year": 2024,
-            "place": 13
-          },
-          {
-            "year": 2025,
-            "place": 20
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": 2024,
-            "place": 13
-          },
-          {
-            "year": 2025,
-            "place": 20
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 63
-          }
-        ],
-        "all_time_score": 396,
-        "rank": 91
-      },
-      {
-        "name": "Kęstas Jaučkojis",
-        "years": {
-          "2013": null,
-          "2014": null,
-          "2015": null,
-          "2016": null,
-          "2017": null,
-          "2018": null,
-          "2019": 31,
-          "2020": 12,
-          "2021": 55,
-          "2022": null,
-          "2023": null,
-          "2024": null,
-          "2025": null
-        },
-        "historical_sources": [
-          {
-            "rank": 76,
-            "score": 398
-          }
-        ],
-        "official_rank_2013_2023": 76,
-        "official_score_2013_2023": 398,
-        "computed_score_2013_2023": 398,
-        "historical_adjusted_to_official": false,
-        "historical_verified_manually": false,
-        "historical_duplicate_rows": 1,
-        "needs_review": false,
-        "placements": [
-          {
-            "year": 2019,
-            "place": 31
-          },
-          {
-            "year": 2020,
-            "place": 12
-          },
-          {
-            "year": 2021,
-            "place": 55
-          }
-        ],
-        "seasons": 3,
-        "four_best": [
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 12
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 31
-          },
-          {
-            "year": null,
-            "label": "2013–2023",
-            "place": 55
-          }
-        ],
-        "all_time_score": 398,
-        "rank": 93
       },
       {
         "name": "Jonas Veselis",
@@ -13785,8 +13748,8 @@
         ],
         "official_rank_2013_2023": 77,
         "official_score_2013_2023": 401,
-        "computed_score_2013_2023": 401,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 201,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
         "needs_review": false,
@@ -13820,10 +13783,16 @@
             "year": null,
             "label": "2013–2023",
             "place": 41
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
           }
         ],
-        "all_time_score": 401,
-        "rank": 94
+        "all_time_score": 201,
+        "rank": 89
       },
       {
         "name": "Edvinas Jaškūnas",
@@ -13850,11 +13819,11 @@
         ],
         "official_rank_2013_2023": 145,
         "official_score_2013_2023": 721,
-        "computed_score_2013_2023": 721,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 321,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2023,
@@ -13883,10 +13852,16 @@
           {
             "year": 2025,
             "place": 55
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
           }
         ],
-        "all_time_score": 402,
-        "rank": 95
+        "all_time_score": 202,
+        "rank": 91
       },
       {
         "name": "Romualdas Osipovičius",
@@ -13913,11 +13888,11 @@
         ],
         "official_rank_2013_2023": 113,
         "official_score_2013_2023": 568,
-        "computed_score_2013_2023": 568,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 268,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2021,
@@ -13947,10 +13922,16 @@
             "year": null,
             "label": "2013–2023",
             "place": 58
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
           }
         ],
-        "all_time_score": 402,
-        "rank": 95
+        "all_time_score": 202,
+        "rank": 91
       },
       {
         "name": "Edvinas Garkavenka",
@@ -13977,8 +13958,8 @@
         ],
         "official_rank_2013_2023": 78,
         "official_score_2013_2023": 403,
-        "computed_score_2013_2023": 403,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 203,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
         "needs_review": false,
@@ -14012,10 +13993,16 @@
             "year": null,
             "label": "2013–2023",
             "place": 54
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
           }
         ],
-        "all_time_score": 403,
-        "rank": 97
+        "all_time_score": 203,
+        "rank": 93
       },
       {
         "name": "Airidas Vileikis",
@@ -14042,8 +14029,8 @@
         ],
         "official_rank_2013_2023": 79,
         "official_score_2013_2023": 406,
-        "computed_score_2013_2023": 406,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 206,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
         "needs_review": false,
@@ -14077,10 +14064,16 @@
             "year": null,
             "label": "2013–2023",
             "place": 39
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
           }
         ],
-        "all_time_score": 406,
-        "rank": 98
+        "all_time_score": 206,
+        "rank": 94
       },
       {
         "name": "Ignas Briedaitis",
@@ -14107,11 +14100,11 @@
         ],
         "official_rank_2013_2023": 94,
         "official_score_2013_2023": 518,
-        "computed_score_2013_2023": 518,
-        "historical_adjusted_to_official": false,
+        "computed_score_2013_2023": 218,
+        "historical_adjusted_to_official": true,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 1,
-        "needs_review": false,
+        "needs_review": true,
         "placements": [
           {
             "year": 2022,
@@ -14141,10 +14134,16 @@
           {
             "year": 2025,
             "place": 90
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
           }
         ],
-        "all_time_score": 408,
-        "rank": 99
+        "all_time_score": 208,
+        "rank": 95
       },
       {
         "name": "Šarūnas Balnaitis",
@@ -14166,7 +14165,7 @@
         "historical_sources": [],
         "official_rank_2013_2023": null,
         "official_score_2013_2023": null,
-        "computed_score_2013_2023": 563,
+        "computed_score_2013_2023": 263,
         "historical_adjusted_to_official": false,
         "historical_verified_manually": false,
         "historical_duplicate_rows": 0,
@@ -14200,10 +14199,275 @@
           {
             "year": 2025,
             "place": 45
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
           }
         ],
-        "all_time_score": 408,
-        "rank": 99
+        "all_time_score": 208,
+        "rank": 95
+      },
+      {
+        "name": "Andrius Cebanauskas",
+        "years": {
+          "2013": 5,
+          "2014": 3,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 90,
+            "score": 508
+          }
+        ],
+        "official_rank_2013_2023": 90,
+        "official_score_2013_2023": 508,
+        "computed_score_2013_2023": 208,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2013,
+            "place": 5
+          },
+          {
+            "year": 2014,
+            "place": 3
+          }
+        ],
+        "seasons": 2,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 3
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 5
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 208,
+        "rank": 95
+      },
+      {
+        "name": "Albinas Astrauskas",
+        "years": {
+          "2013": 28,
+          "2014": 38,
+          "2015": 43,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 80,
+            "score": 409
+          }
+        ],
+        "official_rank_2013_2023": 80,
+        "official_score_2013_2023": 409,
+        "computed_score_2013_2023": 209,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2013,
+            "place": 28
+          },
+          {
+            "year": 2014,
+            "place": 38
+          },
+          {
+            "year": 2015,
+            "place": 43
+          }
+        ],
+        "seasons": 3,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 28
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 38
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 43
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 209,
+        "rank": 98
+      },
+      {
+        "name": "Mantas Bernotas",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": 3,
+          "2025": 6
+        },
+        "historical_sources": [],
+        "official_rank_2013_2023": null,
+        "official_score_2013_2023": null,
+        "computed_score_2013_2023": null,
+        "historical_adjusted_to_official": false,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 0,
+        "needs_review": false,
+        "placements": [
+          {
+            "year": 2024,
+            "place": 3
+          },
+          {
+            "year": 2025,
+            "place": 6
+          }
+        ],
+        "seasons": 2,
+        "four_best": [
+          {
+            "year": 2024,
+            "place": 3
+          },
+          {
+            "year": 2025,
+            "place": 6
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 209,
+        "rank": 98
+      },
+      {
+        "name": "Povilas MotiejGnas",
+        "years": {
+          "2013": null,
+          "2014": null,
+          "2015": null,
+          "2016": null,
+          "2017": null,
+          "2018": null,
+          "2019": null,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2024": null,
+          "2025": null
+        },
+        "historical_sources": [
+          {
+            "rank": 91,
+            "score": 509
+          }
+        ],
+        "official_rank_2013_2023": 91,
+        "official_score_2013_2023": 509,
+        "computed_score_2013_2023": null,
+        "historical_adjusted_to_official": true,
+        "historical_verified_manually": false,
+        "historical_duplicate_rows": 1,
+        "needs_review": false,
+        "placements": [],
+        "seasons": 0,
+        "four_best": [
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 4
+          },
+          {
+            "year": null,
+            "label": "2013–2023",
+            "place": 5
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          },
+          {
+            "year": null,
+            "label": "Nedalyvavo",
+            "place": 100,
+            "penalty": true
+          }
+        ],
+        "all_time_score": 209,
+        "rank": 98
       }
     ]
   },
