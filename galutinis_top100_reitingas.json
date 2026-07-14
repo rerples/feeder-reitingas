@@ -54,13 +54,13 @@
       "national_participation": 10,
       "intl_individual": {
         "first": 150,
-        "second": 125,
-        "third": 100
+        "second": 100,
+        "third": 75
       },
       "intl_team": {
-        "first": 60,
-        "second": 50,
-        "third": 40
+        "first": 50,
+        "second": 35,
+        "third": 25
       }
     },
     "excluded_from_total": [],
@@ -4367,9 +4367,9 @@
       "lt_ind": 35,
       "lt_team": 27,
       "national": 30,
-      "intl_ind": 125,
-      "intl_team": 50,
-      "total": 267,
+      "intl_ind": 100,
+      "intl_team": 35,
+      "total": 227,
       "seasons": [
         2020,
         2021,
@@ -4421,9 +4421,9 @@
       "lt_ind": 0,
       "lt_team": 27,
       "national": 10,
-      "intl_ind": 125,
+      "intl_ind": 100,
       "intl_team": 0,
-      "total": 162,
+      "total": 137,
       "seasons": [
         2020,
         2022,
@@ -4470,8 +4470,8 @@
       "lt_team": 15,
       "national": 30,
       "intl_ind": 0,
-      "intl_team": 50,
-      "total": 145,
+      "intl_team": 35,
+      "total": 130,
       "seasons": [
         2022,
         2023,
@@ -4512,8 +4512,8 @@
       "lt_team": 17,
       "national": 20,
       "intl_ind": 0,
-      "intl_team": 50,
-      "total": 122,
+      "intl_team": 35,
+      "total": 107,
       "seasons": [
         2022,
         2023,
@@ -4548,8 +4548,8 @@
       "lt_team": 5,
       "national": 10,
       "intl_ind": 0,
-      "intl_team": 50,
-      "total": 95,
+      "intl_team": 35,
+      "total": 80,
       "seasons": [
         2021,
         2022,
@@ -4639,96 +4639,6 @@
       "rank": 6
     },
     {
-      "name": "Ignas Briedaitis",
-      "lt_ind": 0,
-      "lt_team": 12,
-      "national": 10,
-      "intl_ind": 0,
-      "intl_team": 50,
-      "total": 72,
-      "seasons": [
-        2022,
-        2023,
-        2025
-      ],
-      "individual_breakdown": [
-        {
-          "year": 2022,
-          "place": 14,
-          "points": 0
-        },
-        {
-          "year": 2023,
-          "place": 4,
-          "points": 0
-        },
-        {
-          "year": 2025,
-          "place": 90,
-          "points": 0
-        }
-      ],
-      "historical_team_breakdown": [],
-      "historical_national_breakdown": [],
-      "historical_team_needs_review": false,
-      "needs_review": false,
-      "rank": 7
-    },
-    {
-      "name": "Vadim Reznik",
-      "lt_ind": 0,
-      "lt_team": 10,
-      "national": 10,
-      "intl_ind": 0,
-      "intl_team": 50,
-      "total": 70,
-      "seasons": [
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025
-      ],
-      "individual_breakdown": [
-        {
-          "year": 2020,
-          "place": 47,
-          "points": 0
-        },
-        {
-          "year": 2021,
-          "place": 23,
-          "points": 0
-        },
-        {
-          "year": 2022,
-          "place": 28,
-          "points": 0
-        },
-        {
-          "year": 2023,
-          "place": 6,
-          "points": 0
-        },
-        {
-          "year": 2024,
-          "place": 67,
-          "points": 0
-        },
-        {
-          "year": 2025,
-          "place": 26,
-          "points": 0
-        }
-      ],
-      "historical_team_breakdown": [],
-      "historical_national_breakdown": [],
-      "historical_team_needs_review": false,
-      "needs_review": false,
-      "rank": 8
-    },
-    {
       "name": "Roman Timokhin",
       "lt_ind": 60,
       "lt_team": 5,
@@ -4773,6 +4683,96 @@
         {
           "year": 2025,
           "place": 76,
+          "points": 0
+        }
+      ],
+      "historical_team_breakdown": [],
+      "historical_national_breakdown": [],
+      "historical_team_needs_review": false,
+      "needs_review": false,
+      "rank": 7
+    },
+    {
+      "name": "Ignas Briedaitis",
+      "lt_ind": 0,
+      "lt_team": 12,
+      "national": 10,
+      "intl_ind": 0,
+      "intl_team": 35,
+      "total": 57,
+      "seasons": [
+        2022,
+        2023,
+        2025
+      ],
+      "individual_breakdown": [
+        {
+          "year": 2022,
+          "place": 14,
+          "points": 0
+        },
+        {
+          "year": 2023,
+          "place": 4,
+          "points": 0
+        },
+        {
+          "year": 2025,
+          "place": 90,
+          "points": 0
+        }
+      ],
+      "historical_team_breakdown": [],
+      "historical_national_breakdown": [],
+      "historical_team_needs_review": false,
+      "needs_review": false,
+      "rank": 8
+    },
+    {
+      "name": "Vadim Reznik",
+      "lt_ind": 0,
+      "lt_team": 10,
+      "national": 10,
+      "intl_ind": 0,
+      "intl_team": 35,
+      "total": 55,
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "individual_breakdown": [
+        {
+          "year": 2020,
+          "place": 47,
+          "points": 0
+        },
+        {
+          "year": 2021,
+          "place": 23,
+          "points": 0
+        },
+        {
+          "year": 2022,
+          "place": 28,
+          "points": 0
+        },
+        {
+          "year": 2023,
+          "place": 6,
+          "points": 0
+        },
+        {
+          "year": 2024,
+          "place": 67,
+          "points": 0
+        },
+        {
+          "year": 2025,
+          "place": 26,
           "points": 0
         }
       ],
@@ -14227,16 +14227,16 @@
       "national_participation": 10,
       "intl_individual": {
         "first": 150,
-        "second": 125,
-        "third": 100
+        "second": 100,
+        "third": 75
       },
       "intl_team": {
-        "first": 60,
-        "second": 50,
-        "third": 40
+        "first": 50,
+        "second": 35,
+        "third": 25
       }
     },
-    "preserved_international_results": true,
+    "preserved_international_results": false,
     "excluded_from_total": [
       "LT individualios 4 ir žemesnės vietos"
     ],
@@ -14678,9 +14678,9 @@
         "lt_ind": 35,
         "lt_team": 27,
         "national": 30,
-        "intl_ind": 125,
-        "intl_team": 50,
-        "total": 267,
+        "intl_ind": 100,
+        "intl_team": 35,
+        "total": 227,
         "seasons": [
           2020,
           2021,
@@ -14866,66 +14866,6 @@
         "rank": 2
       },
       {
-        "name": "Artūras Lapinskas",
-        "lt_ind": 0,
-        "lt_team": 27,
-        "national": 10,
-        "intl_ind": 125,
-        "intl_team": 0,
-        "total": 162,
-        "seasons": [
-          2018,
-          2019,
-          2020,
-          2022,
-          2023,
-          2024,
-          2025
-        ],
-        "individual_breakdown": [
-          {
-            "year": 2018,
-            "place": 42,
-            "points": 0
-          },
-          {
-            "year": 2019,
-            "place": 6,
-            "points": 0
-          },
-          {
-            "year": 2020,
-            "place": 23,
-            "points": 0
-          },
-          {
-            "year": 2022,
-            "place": 37,
-            "points": 0
-          },
-          {
-            "year": 2023,
-            "place": 10,
-            "points": 0
-          },
-          {
-            "year": 2024,
-            "place": 5,
-            "points": 0
-          },
-          {
-            "year": 2025,
-            "place": 4,
-            "points": 0
-          }
-        ],
-        "historical_team_breakdown": [],
-        "historical_national_breakdown": [],
-        "historical_team_needs_review": true,
-        "needs_review": true,
-        "rank": 3
-      },
-      {
         "name": "Paulius Korsakas",
         "lt_ind": 70,
         "lt_team": 37,
@@ -15064,7 +15004,7 @@
         ],
         "historical_team_needs_review": true,
         "needs_review": true,
-        "rank": 4
+        "rank": 3
       },
       {
         "name": "Linas Baranauskas",
@@ -15072,8 +15012,8 @@
         "lt_team": 27,
         "national": 30,
         "intl_ind": 0,
-        "intl_team": 50,
-        "total": 157,
+        "intl_team": 35,
+        "total": 142,
         "seasons": [
           2019,
           2022,
@@ -15126,14 +15066,17 @@
         "rank": 4
       },
       {
-        "name": "Povilas Motiejūnas",
-        "lt_ind": 50,
-        "lt_team": 15,
-        "national": 30,
-        "intl_ind": 0,
-        "intl_team": 50,
-        "total": 145,
+        "name": "Artūras Lapinskas",
+        "lt_ind": 0,
+        "lt_team": 27,
+        "national": 10,
+        "intl_ind": 100,
+        "intl_team": 0,
+        "total": 137,
         "seasons": [
+          2018,
+          2019,
+          2020,
           2022,
           2023,
           2024,
@@ -15141,31 +15084,46 @@
         ],
         "individual_breakdown": [
           {
+            "year": 2018,
+            "place": 42,
+            "points": 0
+          },
+          {
+            "year": 2019,
+            "place": 6,
+            "points": 0
+          },
+          {
+            "year": 2020,
+            "place": 23,
+            "points": 0
+          },
+          {
             "year": 2022,
-            "place": 4,
+            "place": 37,
             "points": 0
           },
           {
             "year": 2023,
-            "place": 5,
+            "place": 10,
             "points": 0
           },
           {
             "year": 2024,
-            "place": 1,
-            "points": 30
+            "place": 5,
+            "points": 0
           },
           {
             "year": 2025,
-            "place": 2,
-            "points": 20
+            "place": 4,
+            "points": 0
           }
         ],
         "historical_team_breakdown": [],
         "historical_national_breakdown": [],
-        "historical_team_needs_review": false,
-        "needs_review": false,
-        "rank": 6
+        "historical_team_needs_review": true,
+        "needs_review": true,
+        "rank": 5
       },
       {
         "name": "Donatas Jovaiša",
@@ -15301,20 +15259,17 @@
         ],
         "historical_team_needs_review": false,
         "needs_review": false,
-        "rank": 7
+        "rank": 6
       },
       {
-        "name": "Nerijus Kalasauskas",
-        "lt_ind": 60,
-        "lt_team": 5,
-        "national": 10,
+        "name": "Povilas Motiejūnas",
+        "lt_ind": 50,
+        "lt_team": 15,
+        "national": 30,
         "intl_ind": 0,
-        "intl_team": 50,
-        "total": 125,
+        "intl_team": 35,
+        "total": 130,
         "seasons": [
-          2018,
-          2019,
-          2021,
           2022,
           2023,
           2024,
@@ -15322,46 +15277,31 @@
         ],
         "individual_breakdown": [
           {
-            "year": 2018,
-            "place": 23,
-            "points": 0
-          },
-          {
-            "year": 2019,
-            "place": 1,
-            "points": 30
-          },
-          {
-            "year": 2021,
-            "place": 7,
-            "points": 0
-          },
-          {
             "year": 2022,
-            "place": 9,
+            "place": 4,
             "points": 0
           },
           {
             "year": 2023,
+            "place": 5,
+            "points": 0
+          },
+          {
+            "year": 2024,
             "place": 1,
             "points": 30
           },
           {
-            "year": 2024,
-            "place": 22,
-            "points": 0
-          },
-          {
             "year": 2025,
-            "place": 37,
-            "points": 0
+            "place": 2,
+            "points": 20
           }
         ],
         "historical_team_breakdown": [],
         "historical_national_breakdown": [],
-        "historical_team_needs_review": true,
-        "needs_review": true,
-        "rank": 8
+        "historical_team_needs_review": false,
+        "needs_review": false,
+        "rank": 7
       },
       {
         "name": "Renaldas Masionis",
@@ -15490,6 +15430,66 @@
         ],
         "historical_team_needs_review": false,
         "needs_review": false,
+        "rank": 8
+      },
+      {
+        "name": "Nerijus Kalasauskas",
+        "lt_ind": 60,
+        "lt_team": 5,
+        "national": 10,
+        "intl_ind": 0,
+        "intl_team": 35,
+        "total": 110,
+        "seasons": [
+          2018,
+          2019,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "individual_breakdown": [
+          {
+            "year": 2018,
+            "place": 23,
+            "points": 0
+          },
+          {
+            "year": 2019,
+            "place": 1,
+            "points": 30
+          },
+          {
+            "year": 2021,
+            "place": 7,
+            "points": 0
+          },
+          {
+            "year": 2022,
+            "place": 9,
+            "points": 0
+          },
+          {
+            "year": 2023,
+            "place": 1,
+            "points": 30
+          },
+          {
+            "year": 2024,
+            "place": 22,
+            "points": 0
+          },
+          {
+            "year": 2025,
+            "place": 37,
+            "points": 0
+          }
+        ],
+        "historical_team_breakdown": [],
+        "historical_national_breakdown": [],
+        "historical_team_needs_review": true,
+        "needs_review": true,
         "rank": 9
       },
       {
@@ -15620,96 +15620,6 @@
         "rank": 11
       },
       {
-        "name": "Ignas Briedaitis",
-        "lt_ind": 0,
-        "lt_team": 12,
-        "national": 10,
-        "intl_ind": 0,
-        "intl_team": 50,
-        "total": 72,
-        "seasons": [
-          2022,
-          2023,
-          2025
-        ],
-        "individual_breakdown": [
-          {
-            "year": 2022,
-            "place": 14,
-            "points": 0
-          },
-          {
-            "year": 2023,
-            "place": 4,
-            "points": 0
-          },
-          {
-            "year": 2025,
-            "place": 90,
-            "points": 0
-          }
-        ],
-        "historical_team_breakdown": [],
-        "historical_national_breakdown": [],
-        "historical_team_needs_review": false,
-        "needs_review": false,
-        "rank": 12
-      },
-      {
-        "name": "Vadim Reznik",
-        "lt_ind": 0,
-        "lt_team": 10,
-        "national": 10,
-        "intl_ind": 0,
-        "intl_team": 50,
-        "total": 70,
-        "seasons": [
-          2020,
-          2021,
-          2022,
-          2023,
-          2024,
-          2025
-        ],
-        "individual_breakdown": [
-          {
-            "year": 2020,
-            "place": 47,
-            "points": 0
-          },
-          {
-            "year": 2021,
-            "place": 23,
-            "points": 0
-          },
-          {
-            "year": 2022,
-            "place": 28,
-            "points": 0
-          },
-          {
-            "year": 2023,
-            "place": 6,
-            "points": 0
-          },
-          {
-            "year": 2024,
-            "place": 67,
-            "points": 0
-          },
-          {
-            "year": 2025,
-            "place": 26,
-            "points": 0
-          }
-        ],
-        "historical_team_breakdown": [],
-        "historical_national_breakdown": [],
-        "historical_team_needs_review": false,
-        "needs_review": false,
-        "rank": 13
-      },
-      {
         "name": "Roman Timokhin",
         "lt_ind": 60,
         "lt_team": 5,
@@ -15773,7 +15683,7 @@
         "historical_national_breakdown": [],
         "historical_team_needs_review": true,
         "needs_review": true,
-        "rank": 14
+        "rank": 12
       },
       {
         "name": "Rimas Kudirka",
@@ -15859,6 +15769,96 @@
         ],
         "historical_team_needs_review": true,
         "needs_review": true,
+        "rank": 13
+      },
+      {
+        "name": "Ignas Briedaitis",
+        "lt_ind": 0,
+        "lt_team": 12,
+        "national": 10,
+        "intl_ind": 0,
+        "intl_team": 35,
+        "total": 57,
+        "seasons": [
+          2022,
+          2023,
+          2025
+        ],
+        "individual_breakdown": [
+          {
+            "year": 2022,
+            "place": 14,
+            "points": 0
+          },
+          {
+            "year": 2023,
+            "place": 4,
+            "points": 0
+          },
+          {
+            "year": 2025,
+            "place": 90,
+            "points": 0
+          }
+        ],
+        "historical_team_breakdown": [],
+        "historical_national_breakdown": [],
+        "historical_team_needs_review": false,
+        "needs_review": false,
+        "rank": 14
+      },
+      {
+        "name": "Vadim Reznik",
+        "lt_ind": 0,
+        "lt_team": 10,
+        "national": 10,
+        "intl_ind": 0,
+        "intl_team": 35,
+        "total": 55,
+        "seasons": [
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "individual_breakdown": [
+          {
+            "year": 2020,
+            "place": 47,
+            "points": 0
+          },
+          {
+            "year": 2021,
+            "place": 23,
+            "points": 0
+          },
+          {
+            "year": 2022,
+            "place": 28,
+            "points": 0
+          },
+          {
+            "year": 2023,
+            "place": 6,
+            "points": 0
+          },
+          {
+            "year": 2024,
+            "place": 67,
+            "points": 0
+          },
+          {
+            "year": 2025,
+            "place": 26,
+            "points": 0
+          }
+        ],
+        "historical_team_breakdown": [],
+        "historical_national_breakdown": [],
+        "historical_team_needs_review": false,
+        "needs_review": false,
         "rank": 15
       },
       {
